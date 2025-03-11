@@ -1,0 +1,47 @@
+Attempt 1:
+Overall Quality Score: 0.68
+Individual Metrics:        
+- Length: 0.79
+- Keywords: 0.55
+- Structure: 0.66
+- Uniqueness: 0.82
+
+Attempt 2:
+Overall Quality Score: 0.67
+Individual Metrics:        
+- Length: 1.00
+- Keywords: 0.36
+- Structure: 0.74
+- Uniqueness: 0.68
+
+Attempt 3:
+Overall Quality Score: 0.54
+Individual Metrics:
+- Length: 1.00
+- Keywords: 0.17
+- Structure: 0.44
+- Uniqueness: 0.80
+
+Final Results:
+
+Wisdom Phrases with Scores:
+
+1. "In the garden of existence, we are both gardener and flower, shaping our world while being shaped by it."
+   Quality Score: 0.70
+   Metrics: Length=1.00, Keywords=0.00, Structure=1.00, Uniqueness=1.00
+
+2. "The present moment is the only place where life truly happens; past and future are but fleeting shadows."
+   Quality Score: 0.78
+   Metrics: Length=1.00, Keywords=0.83, Structure=0.50, Uniqueness=0.90
+
+3. "Seek not to conquer the world, but to understand it, for wisdom is the true power that transcends all borders."
+   Quality Score: 0.88
+   Metrics: Length=1.00, Keywords=0.92, Structure=0.80, Uniqueness=0.80
+
+4. "Within stillness lies the deepest wisdom, as the quiet lake reflects the universe's truths more clearly than the raging sea."
+   Quality Score: 0.69
+   Metrics: Length=0.52, Keywords=1.00, Structure=0.50, Uniqueness=0.70
+
+5. "As the sculptor reveals the statue hidden within the marble, so too must we chisel away our illusions to reveal our authentic selves."
+   Quality Score: 0.37
+   Metrics: Length=0.41, Keywords=0.00, Structure=0.50, Uniqueness=0.70
